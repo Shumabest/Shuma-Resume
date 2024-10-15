@@ -1,0 +1,61 @@
+body{
+    background-image:url(../IMG/IMG_1818.JPG);
+    background-size: cover;
+    background-position: center;
+    background-attachment:local;
+}
+
+nav li{
+    font-family:DM Serif Display;
+    font-size: 35px;
+    text-decoration:wavy;
+    align-items: center; 
+    display: inline;
+    padding: 10px 40px;
+    text-align: center;
+    background-color: rgb(144, 114, 64);
+    margin-left: 60px;
+    border-radius: 40px; 
+   
+}
+nav li:hover{
+    background-color:rgb(118, 45, 45);
+
+}
+
+nav a{
+    text-decoration: none;
+    color:cornsilk;
+    text-shadow: 20px;
+}
+
+nav ul{
+    background-color: rgba(125, 47, 16, 0.695);
+    background-image:url(/IMG/IMG_1808.jpg) ;
+    background-size: cover;
+    padding: 40px;
+    
+}
+
+ header{
+        font-family: Archivo Black;
+        font-size: 35px;
+        text-align: center;
+        color:rgb(144, 114, 64) ;
+        text-shadow: 5px 5px rgb(68, 26, 26);
+        position: relative;
+ }
+
+    
+.section1{
+    font-family: PT Serif;
+    font-size: 30px;
+    text-align: center;
+    margin-top:-40%;
+    margin-bottom: 10%;
+    color:rgb(68, 26, 26)
+}
+
+
+
+

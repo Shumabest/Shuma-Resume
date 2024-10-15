@@ -1,0 +1,36 @@
+.section5{
+    background-color: rgba(230, 189, 227, 0.337);
+    font-family: PT Serif;
+    font-size: 20px;
+    text-align: center;
+    margin-top:15%;
+    margin-bottom: 10%;
+    color:rgb(68, 26, 26)
+}
+
+li{
+    font-family: PT Serif;
+    font-size: 30px;
+    text-align: center;
+    color:rgb(68, 26, 26)}
+
+h4 {font-family: PT Serif;
+        font-size: 30px;
+        text-align: center;
+        color:rgb(68, 26, 26)}
+
+header{
+    font-family: Archivo Black;
+    font-size: 60px;
+    text-align: center;
+    color:rgb(144, 114, 64) ;
+    text-shadow: 5px 5px rgb(68, 26, 26);
+    position: relative;
+}
+
+body{
+    background-image:url(../IMG/IMG_1823.JPG);
+    background-size: cover;
+    background-position: center;
+    background-attachment:local;
+}
